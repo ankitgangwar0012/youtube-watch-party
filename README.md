@@ -2,6 +2,18 @@
 
 A real-time YouTube Watch Party web app that lets people watch videos together in a shared room. The host and moderators control playback, while participants can request actions. Rooms also include live chat and participant role management.
 
+## Project Preview
+
+👉Live Link : [https://youtube-watch-party-fxqx.onrender.com/](https://youtube-watch-party-fxqx.onrender.com/)
+
+
+<img width="1080" alt="Image" src="https://github.com/user-attachments/assets/56ec4fa0-de51-440c-bc9b-9fd29b3b7305" />
+
+
+<img width="480" alt="Image" src="https://github.com/user-attachments/assets/3e6fa8cb-6fe1-4a8e-badd-a63dac385284" />
+
+
+
 ## Features
 
 - **Create a room** — Start a watch party and receive a unique room code.
